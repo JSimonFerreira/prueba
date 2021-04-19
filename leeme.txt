@@ -1,0 +1,6 @@
+20200419 - Fichero de pruebas
+Se crea este fichero para añadirlo como commit al proyecto de pruebas.
+El objetivo es realizar el commit con el cambio sobre el repositorio
+local para llevarlo al repositorio remoto en github y comprobar que el 
+proceso se realiza correctamente.
+
